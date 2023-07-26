@@ -1,10 +1,10 @@
 # Video Player
-Expanding Cards transition is a CSS and JS Animation template website with unique transitions for pictures. It can be used as a picture album sider in your projects.
+It is a a Video Player in which you can play your video. It has video playback speed settings in which you can go from 0.5X to 2X speed and you can also increase and decrease the volume by scrolling the volume bar and you can also switch the video in to full screen mode by a button. So you can use this in your video player project!!
 <hr>
 
 ## Working App can be found here
 
-https://expanding-cards-web.vercel.app/
+https://video-player-web.vercel.app/
 
 ## Tech Stack used is
 
@@ -23,12 +23,12 @@ https://expanding-cards-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Expanding-Cards.git
+  git clone https://github.com/Chirag047/Video-Player.git
 ```
 Go to the project directory
 
 ```bash
-  cd Expanding-Cards
+  cd Video-Player
 ```
 Start the development by running file index.html with live server extension.
 
