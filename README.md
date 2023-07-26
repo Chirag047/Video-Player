@@ -1,5 +1,7 @@
 # Video Player
 It is a a Video Player in which you can play your video. It has video playback speed settings in which you can go from 0.5X to 2X speed and you can also increase and decrease the volume by scrolling the volume bar and you can also switch the video in to full screen mode by a button. So you can use this in your video player project!!
+<br>
+It is responsive on any screen devices so you can access it on any device :)
 <hr>
 
 ## Working App can be found here
