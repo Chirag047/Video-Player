@@ -17,7 +17,7 @@ https://video-player-web.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
